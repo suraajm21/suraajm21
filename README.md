@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Suraaj.M.</h1>
+<h1 align="center">Hi 👋, I'm Suraaj.M</h1>
 <h3 align="center">Data Science enthusiast eager to start a career in the data analysis and machine learning domain from Tamil Nadu, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree444&label=Profile%20views&color=0e75b6&style=flat" alt="shree444" /> </p>
 
 - 🔭 I’m currently looking for Data Analyst/Data Scientist Jobs to showcase my Data Analysis Skills I have learned in SSN School of Advanced Career Education, Chennai.
 
-- 🌱 I’m currently learning *MySQL, Tableau, Machine Learning, Python.*
+- 🌱 I’m currently learning *MySQL, Tableau, Machine Learning, Python*
 
-- 👨‍💻 All of my projects are available at [https://github.com/suraajm21?tab=repositories)]((https://github.com/suraajm21?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/suraajm21?tab=repositories]((https://github.com/suraajm21?tab=repositories))
 
 - 📫 How to reach me *suraajm21@gmail.com*
 
