@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraaj.M</h1>
-<h3 align="center">Data Science enthusiast eager to start a career in the data analysis and machine learning domain from Tamil Nadu, India.</h3>
+<h3 align="center">Flutter Developer with a strong passion for creating innovative and user-friendly cross platform (Android & IOS) mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree444&label=Profile%20views&color=0e75b6&style=flat" alt="shree444" /> </p>
-
-- 🔭 I’m currently looking for Data Analyst/Data Scientist Jobs to showcase my Data Analysis Skills I have learned in SSN School of Advanced Career Education, Chennai.
-
-- 🌱 I’m currently learning *MySQL, Tableau, Machine Learning, Python.*
 
 - 👨‍💻 All of my projects are available at [https://github.com/suraajm21?tab=repositories](https://github.com/suraajm21?tab=repositories)
 
@@ -17,6 +13,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="flutter" width="40" height="40"/></p>
 
 
