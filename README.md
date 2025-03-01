@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Suraaj M</h1>
-<h3 align="center">Data Scientist & AI Enthusiast specializing in Machine Learning, Deep Learning, NLP, and Data Analytics.</h3>
+<h3 align="center">AI Enthusiast specializing in Machine Learning, Deep Learning, NLP, and Data Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraajm21&label=Profile%20views&color=0e75b6&style=flat" alt="suraajm21" /> </p>
 
@@ -7,12 +7,6 @@
 - Passionate about solving real-world problems with **Machine Learning, Deep Learning, Computer Vision, and NLP**  
 - Love working on **data-driven solutions, predictive modeling, and AI-powered applications**  
 - Actively building **AI & ML projects** and **exploring data analytics & automation**  
-
-## 🔥 Featured Projects
-- **🎭 IMDB Movie Recommendation** → NLP-based content filtering using TF-IDF & Cosine Similarity  
-- **📊 Used Car Price Prediction** → Machine learning model for price estimation  
-- **🤖 Human Faces Object Detection** → Real-time face detection with OpenCV & CNN  
-- **📹 YouTube Data Harvesting** → Data extraction & analysis with SQL & Streamlit  
 
 📂 **See all my projects:** 👉 [GitHub Repositories](https://github.com/suraajm21?tab=repositories)  
 
@@ -30,15 +24,10 @@
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="100" height="40"/> </a>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=suraajm21&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## 📫 How to Reach Me
 - ✉️ Email: **suraajm21@gmail.com**  
 - 💼 LinkedIn: [Suraaj M](https://www.linkedin.com/in/suraaj-m-47b04620b/)  
 
 ---
 
-🔥 **Let's build something amazing with AI & Data Science!** 🚀  
+🔥 **Let's build something amazing with AI!** 🚀  
