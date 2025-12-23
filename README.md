@@ -25,9 +25,9 @@ I build **end-to-end AI systems** - from data prep and modeling to evaluation an
 
 | Project | What it does | Tech | Links |
 |---|---|---|---|
-| **Self-Checking LLM Agent** | Planner–Executor–Verifier loop with validation + retries for reliable outputs | LangChain, Python | [Repo]([https://github.com/suraajm21/REPO_NAME](https://github.com/suraajm21/Multi-Step-Reasoning-Agent-with-Self-Checking)) |
-| **Local RAG System** | Local document search + grounded summaries (BM25 + FAISS + local LLM) | FAISS, BM25, LLaMA, Python | [Repo]([https://github.com/suraajm21/REPO_NAME](https://github.com/suraajm21/Document-Search-and-Summarization-Using-Large-Language-Models-LLM)) |
-| **Real-Time Face Detection** | Streamlit app for image/video/webcam detection | YOLOv8, OpenCV, Streamlit | [Repo]([https://github.com/suraajm21/REPO_NAME](https://github.com/suraajm21/Human-Faces-Object-Detection-)) |
+| **Self-Checking LLM Agent** | Planner–Executor–Verifier loop with validation + retries for reliable outputs | LangChain, Python | [Repo](https://github.com/suraajm21/REPO_NAME](https://github.com/suraajm21/Multi-Step-Reasoning-Agent-with-Self-Checking) |
+| **Local RAG System** | Local document search + grounded summaries (BM25 + FAISS + local LLM) | FAISS, BM25, LLaMA, Python | [Repo](https://github.com/suraajm21/REPO_NAME](https://github.com/suraajm21/Document-Search-and-Summarization-Using-Large-Language-Models-LLM) |
+| **Real-Time Face Detection** | Streamlit app for image/video/webcam detection | YOLOv8, OpenCV, Streamlit | [Repo](https://github.com/suraajm21/REPO_NAME](https://github.com/suraajm21/Human-Faces-Object-Detection-) |
 
 ---
 
