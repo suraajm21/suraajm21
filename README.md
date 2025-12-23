@@ -1,32 +1,73 @@
-<h1 align="center">Hey there! 👋 I'm Suraaj M</h1>
-<h3 align="center">AI Enthusiast specializing in Machine Learning, Deep Learning, NLP, and Data Analytics.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraajm21&label=Profile%20views&color=0e75b6&style=flat" alt="suraajm21" /> </p>
-
-## 🚀 About Me
-- Passionate about solving real-world problems with **Machine Learning, Deep Learning, Computer Vision, and NLP**  
-- Love working on **data-driven solutions, predictive modeling, and AI-powered applications**  
-- Actively building **AI & ML projects** and **exploring data analytics & automation**  
-
-📂 **See all my projects:** 👉 [GitHub Repositories](https://github.com/suraajm21?tab=repositories)  
-
-## 🛠️ Languages & Tools
-<p align="left">
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="100" height="40"/> </a>
+<h1 align="center">Hi, I'm Suraaj M 👋</h1>
+<p align="center">
+  AI / ML Engineer • GenAI (LLM Agents, RAG) • Computer Vision • NLP • Data Analytics
 </p>
 
-## 📫 How to Reach Me
-- ✉️ Email: **suraajm21@gmail.com**  
-- 💼 LinkedIn: [Suraaj M](https://www.linkedin.com/in/suraaj-m-47b04620b/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/suraaj-m-47b04620b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:suraajm21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-suraajm21%40gmail.com-red?logo=gmail"></a>
+  <a href="https://github.com/suraajm21"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-suraajm21-black?logo=github"></a>
+</p>
 
 ---
 
-🔥 **Let's build something amazing with AI!** 🚀  
+## 🚀 About
+I build **end-to-end AI systems** — from data prep and modeling to evaluation and deployment — with a focus on:
+- **Generative AI:** LLM agents, RAG pipelines, grounding & reliability
+- **Computer Vision:** real-time detection (YOLO), OpenCV apps
+- **ML/NLP:** classical + deep learning, analytics, automation
+
+✅ Open to roles: **AI Engineer / ML Engineer / GenAI / Computer Vision / NLP** (Chennai / Remote)
+
+---
+
+## ⭐ Featured Projects
+> Replace repo links with your actual repositories.
+
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| **Self-Checking LLM Agent** | Planner–Executor–Verifier loop with validation + retries for reliable outputs | LangChain, Python | [Repo](https://github.com/suraajm21/REPO_NAME) • [Demo](https://github.com/suraajm21/REPO_NAME) |
+| **Local RAG System** | Local document search + grounded summaries (BM25 + FAISS + local LLM) | FAISS, BM25, LLaMA, Python | [Repo](https://github.com/suraajm21/REPO_NAME) • [Demo](https://github.com/suraajm21/REPO_NAME) |
+| **Real-Time Face Detection** | Streamlit app for image/video/webcam detection | YOLOv8, OpenCV, Streamlit | [Repo](https://github.com/suraajm21/REPO_NAME) • [Demo](https://github.com/suraajm21/REPO_NAME) |
+
+---
+
+## 🧰 Tech Stack
+**Languages:** Python, SQL  
+**ML/DL:** PyTorch, TensorFlow, scikit-learn  
+**GenAI:** LangChain, Hugging Face, Ollama  
+**RAG/Search:** FAISS, BM25  
+**CV:** OpenCV, YOLO  
+**Apps/Deploy:** Streamlit, FastAPI  
+**Data:** Pandas, NumPy, Matplotlib
+
+<p>
+  <img src="https://img.shields.io/badge/Python-000?logo=python" />
+  <img src="https://img.shields.io/badge/PyTorch-000?logo=pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-000?logo=tensorflow" />
+  <img src="https://img.shields.io/badge/OpenCV-000?logo=opencv" />
+  <img src="https://img.shields.io/badge/Streamlit-000?logo=streamlit" />
+  <img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi" />
+  <img src="https://img.shields.io/badge/SQL-000?logo=postgresql" />
+</p>
+
+---
+
+## 📌 Currently
+- Building **LLM agents** and **RAG pipelines** with better evaluation & reliability
+- Creating **deployable apps** (Streamlit/FastAPI) with clean demos
+
+---
+
+## 📫 Contact
+- Email: **suraajm21@gmail.com**
+- LinkedIn: **Suraaj M** → https://www.linkedin.com/in/suraaj-m-47b04620b/
+
+---
+
+<!-- Optional GitHub stats (uncomment if you want)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suraajm21&show_icons=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraajm21" height="160" />
+</p>
+-->
