@@ -17,7 +17,7 @@ I build **end-to-end AI systems** - from data prep and modeling to evaluation an
 - **Computer Vision:** real-time detection (YOLO), OpenCV apps
 - **ML/NLP:** classical + deep learning, analytics, automation
 
-✅ Open to roles: **AI Engineer / ML Engineer / GenAI / Computer Vision / NLP** (Chennai / Remote)
+✅ Open to roles: **AI Engineer / ML Engineer / GenAI / Computer Vision / NLP** 
 
 ---
 
