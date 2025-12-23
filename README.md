@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About
-I build **end-to-end AI systems** - from data prep and modeling to evaluation and deployment — with a focus on:
+I build **end-to-end AI systems** - from data prep and modeling to evaluation and deployment - with a focus on:
 - **Generative AI:** LLM agents, RAG pipelines, grounding & reliability
 - **Computer Vision:** real-time detection (YOLO), OpenCV apps
 - **ML/NLP:** classical + deep learning, analytics, automation
